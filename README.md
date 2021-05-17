@@ -1,4 +1,4 @@
-# Hi 👋🏾, I'm Ícaro Sant'Ana 
+# Hi 👋🏾, I'm Ícaro Sant'Ana.
 
 ## About me
 
