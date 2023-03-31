@@ -5,7 +5,7 @@
 * **🙎🏽‍♂️ I'm 18 years old.**
 * **🏠 Living in Brazil.**
 * **💻 Back-end developer.**
-* **🔐 Cryptocurrency enthusiast.**
+* **🔐 Cybersecurity enthusiast.**
 * **
 
 ## GitHub Stats
