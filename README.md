@@ -2,10 +2,10 @@
 
 ## About me
 
-* **🙎🏽‍♂️ I'm 18 years old.**
+* **🙎🏽‍♂️ I'm 20 years old.**
 * **🏠 Living in Brazil.**
-* **💻 Back-end developer.**
-* **🔐 Cybersecurity enthusiast.**
+* **💻 Full Stack Developer**
+* **🔐 Cybersecurity Enthusiast.**
 * **
 
 ## GitHub Stats
