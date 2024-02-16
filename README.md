@@ -2,9 +2,9 @@
 
 ## About me
 
-* **🙎🏽‍♂️ I'm 20 years old.**
+* **🙎🏽‍♂️ I'm 21 years old.**
 * **🏠 Living in Brazil.**
-* **💻 Full Stack Developer**
+* **💻 Software Engineer**
 * **🔐 Cybersecurity Enthusiast.**
 * **
 
