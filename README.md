@@ -20,6 +20,6 @@
 <details>
   <summary>📊 Github Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SmookeyDev&show_icons=true&theme=material-palenight" alt="SmookeyDev Stats" />
+    <img src="https://github-readme-stats-topaz-sigma-76.vercel.app/api?show_icons=true&username=SmookeyDev&theme=material-palenight" alt="SmookeyDev Stats" />
   </p>
 </details>
